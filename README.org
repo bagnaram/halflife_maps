@@ -1,0 +1,47 @@
+#+TITLE: Half-life maps
+
+This repository contains a set of historic Half-Life `vmf` maps. They are built
+in Hammer Editor. There are also a set of compiled `bsp` maps that I haven't had
+a chance to recover & decompile.
+
+** dm_city
+This is the first map in the citystreet series.
+[[./screenshots/dm_city0005.jpg]]
+** dm_citystreet_v2
+Second version renamed to dw_citystreet. Underwater area and more detailed buildings.
+[[./screenshots/dm_citystreet_v20000.jpg]]
+** dm_citystreet_v3
+The third iteration of this map. Changed many textures and added extonsive underground area and can go inside more buildings.
+[[./screenshots/dm_citystreet_v30006.jpg]]
+** dm_citystreet
+This final citystreet map contains a new railroad area as well as removal of most corporate assets and textures.
+** lab
+This is a fun labyrinth level that has some tricky areas to manuever. You must solve it against the clock, or be squashed.
+[[./screenshots/lab0004.jpg]]
+** out
+This map features AI customizations inside an apocolyptic sandhole city!
+[[./screenshots/out0002.jpg]]
+** Sonnys
+This is a great Sonnys BBQ map!
+[[./screenshots/sunnys0003.jpg]]
+** h20
+A HL2 singleplayer map. This one is a large outside beach test level
+that turned into a small single-player story.
+There is a fastzombie (relish) that has a cage welded to its
+  movement.
+** mapcbeta
+A HL deathmatch. This is part of the undertow series. It is an
+expansion of the origional dm_undertow.
+** mapd
+A HL deathmatch map. This is a part of the undertow series.
+** undertow_huge_g_d.vmf
+HL deathmatch map. This is a part of the undertow
+series.
+** rp_campsite_d
+A garrysmod map. This is a large role-playing map where you
+can build campers and go camping outside.
+** zoggerlift
+I don't know why I have this. It is a tutorial for building a
+full elevator based on `func_tracktrain`.
+** racetrak
+A garrysmod map. This is a dog track.
