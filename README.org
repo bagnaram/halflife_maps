@@ -9,7 +9,7 @@ This is the first map in the citystreet series.
 [[./screenshots/dm_city0005.jpg]]
 ** dm_citystreet_v2
 Second version renamed to dw_citystreet. Underwater area and more detailed buildings.
-[[./screenshots/dm_citystreet_v20000.jpg]]
+[[./screenshots/dm_citystreet_v20001.jpg]]
 ** dm_citystreet_v3
 The third iteration of this map. Changed many textures and added extonsive underground area and can go inside more buildings.
 [[./screenshots/dm_citystreet_v30006.jpg]]
