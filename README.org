@@ -18,6 +18,11 @@ The third iteration of this map. Changed many textures and added extonsive
 underground area and can go inside more buildings.
 
 [[./screenshots/dm_citystreet_v30006.jpg]]
+** dm_citystreet_v4
+This version replaces the Sams club area with a watery edge as well as
+addtitonal detail in the buildings.
+
+[[./screenshots/dm_citystreet_v4.jpg]]
 ** dm_citystreet
 This final citystreet map contains a new railroad area as well as removal of
 most corporate assets and textures.
