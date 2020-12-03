@@ -26,6 +26,9 @@ addtitonal detail in the buildings.
 ** dm_citystreet
 This final citystreet map contains a new railroad area as well as removal of
 most corporate assets and textures.
+
+[[./screenshots/dm_citystreet20000.jpg]]
+
 ** lab
 This is a fun labyrinth level that has some tricky areas to manuever. You must
 solve it against the clock, or be squashed.
