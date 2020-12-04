@@ -29,6 +29,11 @@ most corporate assets and textures.
 
 [[./screenshots/dm_citystreet20000.jpg]]
 
+** highschool
+This map is based on my old highschool. It is unfinished and was used for a video project on one of my classes.
+
+[[./screenshots/highschool0000.jpg]]
+
 ** lab
 This is a fun labyrinth level that has some tricky areas to manuever. You must
 solve it against the clock, or be squashed.
