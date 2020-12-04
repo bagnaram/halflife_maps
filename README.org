@@ -1,7 +1,7 @@
 #+TITLE: Half-life maps
 
-This repository contains a set of historic Half-Life `vmf` maps. They are built
-in Hammer Editor. There are also a set of compiled `bsp` maps that I haven't had
+This repository contains a set of historic Half-Life ~vmf~ maps. They are built
+in Hammer Editor. There are also a set of compiled ~bsp~ maps that I haven't had
 a chance to recover & decompile.
 
 ** dm_city
@@ -33,6 +33,9 @@ most corporate assets and textures.
 This map is based on my old highschool. It is unfinished and was used for a video project on one of my classes.
 
 [[./screenshots/highschool0000.jpg]]
+
+** middle_school_d
+This map is based on my old middle school.
 
 ** lab
 This is a fun labyrinth level that has some tricky areas to manuever. You must
@@ -67,5 +70,20 @@ I don't know why I have this. It is a tutorial for building a full elevator
 based on `func_tracktrain`.
 ** racetrak
 A garrysmod map. This is a dog track.
+** cs_j3-cub
+An outdoor airstrip map that features a Piper Cub
+** rp_campsite_d
+This is a garrysmod roleplaying map where you can buile camper trailers and go camping in a forest.
+** desertstrukt
+A large garrysmod map inside of a pyramid. The background music is from SA2B
+** room
+This might be my forst hl2 map.
+** strip
+A TF2 airstrip CTF map
+** strip_fog
+Same as above but with fog outside
+** tram
+A short single player map that features a tram ride with simple battles with combine.
+A TF2 airstrip CTF map
 
 [[./screenshots/racetrak0000.jpg]]
