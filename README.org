@@ -70,6 +70,9 @@ I don't know why I have this. It is a tutorial for building a full elevator
 based on `func_tracktrain`.
 ** racetrak
 A garrysmod map. This is a dog track.
+
+[[./screenshots/racetrak0000.jpg]]
+
 ** cs_j3-cub
 An outdoor airstrip map that features a Piper Cub
 ** rp_campsite_d
@@ -86,4 +89,3 @@ Same as above but with fog outside
 A short single player map that features a tram ride with simple battles with combine.
 A TF2 airstrip CTF map
 
-[[./screenshots/racetrak0000.jpg]]
