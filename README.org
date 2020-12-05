@@ -1,7 +1,7 @@
 #+TITLE: Half-life maps
 
-This repository contains a set of historic Half-Life ~vmf~ maps. They are built
-in Hammer Editor. There are also a set of compiled ~bsp~ maps that I haven't had
+This repository contains a set of historic Half-Life =vmf= maps. They are built
+in Hammer Editor. There are also a set of compiled =bsp= maps that I haven't had
 a chance to recover & decompile.
 
 ** dm_city
@@ -54,14 +54,27 @@ This is a great Sonnys BBQ map!
 A HL2 singleplayer map. This one is a large outside beach test level that turned
 into a small single-player story. There is a fastzombie (relish) that has a cage
 welded to its movement.
+
+
+[[./screenshots/out0002.jpg]]
 ** mapcbeta
-A HL deathmatch. This is part of the undertow series. It is an expansion of the
-origional dm_undertow.
+A HL deathmatch. This is part of a series of continous singleplayer maps, the
+previous ones lost.
+
+[[./screenshots/mapcbeta0000.jpg]]
 ** mapd
 A HL deathmatch map. This is a part of the undertow series.
+** map
+One of my earliest hs2 maps. A singleplayer battle in a city.
+
+[[./screenshots/map0000.jpg]]
 ** undertow_huge_g_d.vmf
 HL deathmatch map. This is a part of the undertow
 series.
+** blimp
+I don't take credit for this map. It was in my collection and I thought it was a cool concelp. This is a blimp map for The Ship mod.
+
+[[./screenshots/blimp0002.jpg]]
 ** rp_campsite_d
 A garrysmod map. This is a large role-playing map where you can build campers
 and go camping outside.
@@ -87,5 +100,5 @@ A TF2 airstrip CTF map
 Same as above but with fog outside
 ** tram
 A short single player map that features a tram ride with simple battles with combine.
-A TF2 airstrip CTF map
 
+[[./screenshots/tram0000.jpg]]
