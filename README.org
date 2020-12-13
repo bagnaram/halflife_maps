@@ -80,6 +80,9 @@ I don't take credit for this map. It was in my collection and I thought it was a
 ** rp_campsite_d
 A garrysmod map. This is a large role-playing map where you can build campers
 and go camping outside.
+
+[[./screenshots/rp_campsite_b0000.jpg]]
+
 ** zoggerlift
 I don't know why I have this. It is a tutorial for building a full elevator
 based on `func_tracktrain`.
@@ -100,19 +103,20 @@ Based on the CS 737 airport map except this is CTF.
 
 ** cs_j3-cub
 An outdoor airstrip map that features a Piper Cub
-** rp_campsite_d
-This is a garrysmod roleplaying map where you can buile camper trailers and go camping in a forest.
+
+[[./screenshots/cs_j3-cub_d0001.jpg]]
+
 ** desertstrukt
 A large garrysmod map inside the depths of an ancient pyramid interconnected with vast corridors. The background music is from SA2B
 
 [[./screenshots/desertstrukt0001.jpg]]
 
 ** room
-This might be my forst hl2 map.
+This might be my first hl2 map.
 ** strip
 A TF2 airstrip CTF map
 
-[[./screenshots/strip0001.jpg]]
+[[./screenshots/strip0002.jpg]]
 
 ** strip_fog
 Same as above but with fog outside
