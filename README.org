@@ -37,6 +37,8 @@ This map is based on my old highschool. It is unfinished and was used for a vide
 ** middle_school_d
 This map is based on my old middle school.
 
+[[./screenshots/middle_school_d0000.jpg]]
+
 ** lab
 This is a fun labyrinth level that has some tricky areas to manuever. You must
 solve it against the clock, or be squashed.
@@ -86,16 +88,32 @@ A garrysmod map. This is a dog track.
 
 [[./screenshots/racetrak0000.jpg]]
 
+** cs_737-300
+A fully built airport map with parking, a terminal, and airliners you can go inside.
+
+[[./screenshots/cs_737-3000000.jpg]]
+
+** ctf_737
+Based on the CS 737 airport map except this is CTF.
+
+[[./screenshots/ctf_7370000.jpg]]
+
 ** cs_j3-cub
 An outdoor airstrip map that features a Piper Cub
 ** rp_campsite_d
 This is a garrysmod roleplaying map where you can buile camper trailers and go camping in a forest.
 ** desertstrukt
-A large garrysmod map inside of a pyramid. The background music is from SA2B
+A large garrysmod map inside the depths of an ancient pyramid interconnected with vast corridors. The background music is from SA2B
+
+[[./screenshots/desertstrukt0001.jpg]]
+
 ** room
 This might be my forst hl2 map.
 ** strip
 A TF2 airstrip CTF map
+
+[[./screenshots/strip0001.jpg]]
+
 ** strip_fog
 Same as above but with fog outside
 ** tram
