@@ -1,8 +1,15 @@
 #+TITLE: Half-life maps
 
 This repository contains a set of historic Half-Life =vmf= maps. They are built
-in Hammer Editor. There are also a set of compiled =bsp= maps that I haven't had
-a chance to recover & decompile.
+in Hammer Editor. There are also a set of compiled =bsp= maps to play directly.
+I hope these can be of help for mappers or just a bit of enjoyment.
+
+
+The compiled =bsp= maps that contain custom textures have been added to the file
+container. This means that custom materials and textures are bundled in the
+file. I used the tool [[http://www.map-lounge.de][Map Analyst]] by Rolf Haenisch to pack the BSP files. If you
+wish to obtain the materials yourself for a compile, use the utility to extract
+them to your =$GAMEROOT/materials= or =$GAMEROOT/models= directory.
 
 ** dm_city
 This is the first map in the citystreet series.
