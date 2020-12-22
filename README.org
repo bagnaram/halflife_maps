@@ -51,7 +51,7 @@ This map features AI customizations inside an apocolyptic sandhole city!
 ** Sonnys
 This is a great Sonnys BBQ map!
 
-[[./screenshots/sonnys.png]]
+[[./screenshots/sonnys0000.jpg]]
 ** h20
 A HL2 singleplayer map. This one is a large outside beach test level that turned
 into a small single-player story. There is a fastzombie (relish) that has a cage
