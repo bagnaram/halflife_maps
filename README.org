@@ -57,8 +57,8 @@ A HL2 singleplayer map. This one is a large outside beach test level that turned
 into a small single-player story. There is a fastzombie (relish) that has a cage
 welded to its movement.
 
+[[./screenshots/h200001.jpg]]
 
-[[./screenshots/out0002.jpg]]
 ** mapcbeta
 A HL deathmatch. This is part of a series of continous singleplayer maps, the
 previous ones lost.
